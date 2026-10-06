@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <nav>
+        <nav class="sidenav">
             <a href="">image</a>
             <a href="">Oppertunities</a>
             <a href="">Colleagues</a>
@@ -22,11 +22,87 @@
     <main>
         <article>
             <h1>Welcome back Jane</h1>
-            <ul class="rainbowbuttons">
-                <li>Find coleagues</li>
-                <li>Browse opportunities</li>
-                <li>Events & conventions</li>
-            </ul>
+            <section class="rainbowbuttons">
+                <button>Find coleagues</button>
+                <button>Browse opportunities</button>
+                <button>Events & conventions</button>
+            </section>
+            <section class="recomendation">
+                <section class="topinfo">
+                <h2>Recommended for you</h2>
+                <p>Projects,questions and colleagues selected based on your preferences.</p>
+                <select name="filtercol" id="filtercol">
+                    <option>Show all</option>
+                    <option>Collegues</option>
+                    <option>Oppertunities</option>
+                    <option>Open questions</option>
+                    <option>Events</option>
+                </select>
+                <button id="refresh">refresh</button>
+                </section>
+                <div class="scroll-grid">
+                    <ul>
+                        <a>
+                            <h3>Anthony Martina</h3>
+                            <em>Medical Researcher</em>
+                            <img class="bookmark">
+                            <img class="menu">
+                            <p>From Data to Decisions:<br>
+                            Improving Clinical Insight Through Pediatric Care</p>
+                            <button>Data Interpratation</button>
+                        </a>
+                        <a>
+                            <h3>Anthony Martina</h3>
+                            <em>Medical Researcher</em>
+                            <img class="bookmark">
+                            <img class="menu">
+                            <p>From Data to Decisions:<br>
+                            Improving Clinical Insight Through Pediatric Care</p>
+                            <button>Data Interpratation</button>
+                        </a>
+                    </ul>
+                    <img>swipe
+                    <p class="tip">Swipe left to see more recomendation</p>
+                </div>
+            </section>
+            <section class="bookmark">
+                <section class="topinfo">
+                <h2>Your bookmarked content</h2>
+                <p>Projects,questions and colleagues selected based on your preferences.</p>
+                <select name="filterbook" id="filterbook">
+                    <option>Show all</option>
+                    <option>Collegues</option>
+                    <option>Oppertunities</option>
+                    <option>Open questions</option>
+                    <option>Events</option>
+                </select>
+                <button id="search">search</button>
+                </section>
+                <div class="scroll-grid">
+                    <ul>
+                        <a>
+                            <h3>Anthony Martina</h3>
+                            <em>Medical Researcher</em>
+                            <img class="bookmark">
+                            <img class="menu">
+                            <p>From Data to Decisions:<br>
+                            Improving Clinical Insight Through Pediatric Care</p>
+                            <button>Data Interpratation</button>
+                        </a>
+                        <a>
+                            <h3>Anthony Martina</h3>
+                            <em>Medical Researcher</em>
+                            <img class="bookmark">
+                            <img class="menu">
+                            <p>From Data to Decisions:<br>
+                            Improving Clinical Insight Through Pediatric Care</p>
+                            <button>Data Interpratation</button>
+                        </a>
+                    </ul>
+                    <img>swipe
+                    <p class="tip">Swipe left to see more content</p>
+                </div>
+            </section>
         </article>
     </main>
     <footer>
