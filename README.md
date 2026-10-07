@@ -1,6 +1,12 @@
-# The Client - Website
+# The Client - Website Pediaconnect
+# Inleiding
+Pediaconnect is een website waar artsen elkaar kunnen leren kennen.
+Je kan het ook een social media voor artsen noemen
+we hebben daarvoor een figma gekregen met de huisstyle en pagina's van hoe het eruit zou moeten zien
+die wij dan in html ,css en javascript moeten na bouwen.
 
-Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
+# Beschrijving
+
 
 De instructie van deze leertaak staan in de [WIKI](https://github.com/fdnd-task/the-client-website/wiki)
 
