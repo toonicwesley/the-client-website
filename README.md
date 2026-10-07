@@ -22,7 +22,12 @@ link naar de [WEBSITE](https://toonicwesley.github.io/the-client-website/)
 
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+We werkten mobile first dus we werken vanaf de mobiele versie en gaan dan omhoog scalen tot desktop daarbij gebruiken we media queries zodat het veranderd van layout.
+ook in de html werken we met semantische volgorde zodat het door het web makkelijk gelezen kan worden.
+<img width="960" height="890" alt="image" src="https://github.com/user-attachments/assets/c915df89-f67c-4c01-bf28-f633072a174c" />
+
+Voor dit project gebruiken we nog geen frameworks we gebruiken puur html, css en javascript
+
 
 ## Bronnen
 De instructie van deze leertaak staan in de [WIKI](https://github.com/fdnd-task/the-client-website/wiki)
