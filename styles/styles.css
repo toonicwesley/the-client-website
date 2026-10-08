@@ -132,13 +132,14 @@ header{
     padding-bottom: 10%;
 }
 
-.dropdownnav .toonMenu{
+.navbtn{
+    cursor: pointer;
+}
+
+.toonMenu{
     translate: 0;
 }
 
-.closeMenu{
-    translate: 100%;
-}
 
 header:hover{
     @media(min-width: 900px){
