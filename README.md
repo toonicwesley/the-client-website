@@ -1,9 +1,9 @@
-# The Client - Website
-
-Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
-
-De instructie van deze leertaak staan in de [WIKI](https://github.com/fdnd-task/the-client-website/wiki)
-
+# The Client - Website Pediaconnect
+## Inleiding
+Pediaconnect is een website waar artsen elkaar kunnen leren kennen.
+Je kan het ook een social media voor artsen noemen
+we hebben daarvoor een figma gekregen met de huisstyle en pagina's van hoe het eruit zou moeten zien
+die wij dan in html ,css en javascript moeten na bouwen.
 
 
 ## Inhoudsopgave Readme
@@ -14,15 +14,24 @@ De instructie van deze leertaak staan in de [WIKI](https://github.com/fdnd-task/
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+wij hebben voor de opdracht een figma gekregen met een ontwerp wat we met html ,css en javascript na gaan bouwen de website is een social media voor artsen zodat ze hun vaardigheden en ervaringen kunnen delen met mede artsen.
+Voor de eerste sprint was er gefocused op de dashboard volledig responsive en semantisch correct te creeëren en vanaf model first developen.
+<img width="400" height="361" alt="image" src="https://github.com/user-attachments/assets/050d37c2-f59a-4a70-bd26-a4777005850d" />
+
+link naar de [WEBSITE](https://toonicwesley.github.io/the-client-website/)
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+We werkten mobile first dus we werken vanaf de mobiele versie en gaan dan omhoog scalen tot desktop daarbij gebruiken we media queries zodat het veranderd van layout.
+ook in de html werken we met semantische volgorde zodat het door het web makkelijk gelezen kan worden.
+<img width="960" height="890" alt="image" src="https://github.com/user-attachments/assets/c915df89-f67c-4c01-bf28-f633072a174c" />
+
+Voor dit project gebruiken we nog geen frameworks we gebruiken puur html, css en javascript
 
 
-
+## Bronnen
+De instructie van deze leertaak staan in de [WIKI](https://github.com/fdnd-task/the-client-website/wiki)
+De [Figma](https://www.figma.com/design/EJEXRWKJcgaRjUzIWEhgq9/OVERDRACHT-Pediaconnect--FINAL-version-NVK-kleuren-?node-id=3200-14993&p=f&t=asStCwK2h1y9rehb-0)
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
