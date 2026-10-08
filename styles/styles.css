@@ -46,6 +46,8 @@ main{
     text-align: center;
     position: relative;
     display: flex;
+    text-decoration: none;
+    color: #322F2F;
 }
 
 .sidenav a:nth-of-type(1) {
@@ -133,7 +135,10 @@ header{
     border-radius: 1rem;
     padding-bottom: 10%;
     transition: 0.3s;
+}
+.dropdownnav a{
     text-decoration: none;
+    color: #322F2F;
 }
 
 .navbtn{
