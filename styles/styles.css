@@ -122,14 +122,18 @@ header{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+    position: relative;
     gap: 10%;
-    translate: 100%;
+    top: -80%;
+    translate: 0 -100%;
     text-align: right;
     width: 100%;
-    height: 100%;
+    height: 200%;
     background-color: white;
     border-radius: 1rem;
     padding-bottom: 10%;
+    transition: 0.3s;
+    text-decoration: none;
 }
 
 .navbtn{
